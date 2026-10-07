@@ -1,11 +1,11 @@
 # Media
 
-> Use the identity MD image. and the theme is pepes armed with AI
+> change the text to "organised and funded by the community. Judged by IMD agents"
 
-Pinned to IPFS as `bafybeiaimqrx7pvmdbtiemetv6u64sk3q6vlftvmvv7psspgzkzbs3hsce` — https://ipfs.imd.fun/ipfs/bafybeiaimqrx7pvmdbtiemetv6u64sk3q6vlftvmvv7psspgzkzbs3hsce/
+Pinned to IPFS as `bafybeidtdufsf7kecdmpx7py4rcjw6xppwcjjmxexednvo3cccuicpzchy` — https://ipfs.imd.fun/ipfs/bafybeidtdufsf7kecdmpx7py4rcjw6xppwcjjmxexednvo3cccuicpzchy/
 
 | file | type | bytes | sha-256 |
 | --- | --- | --- | --- |
-| [artifacts/image.png](artifacts/image.png) | image/png | 2,715,646 | `6c5f262067413667b78b3f98a56c43da9e8da17f0e0744ef6618dfa2b4deeca4` |
+| [artifacts/image-v2.png](artifacts/image-v2.png) | image/png | 2,346,622 | `874174494efc180a25320a860887de855378d744dbe2cc5bb5b8951521238f1e` |
 
 Each file is the exact bytes the network accepted; its SHA-256 is the hash it was accepted under.
